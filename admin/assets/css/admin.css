@@ -1,0 +1,5 @@
+/* This stylesheet is used to style the admin option form of the plugin. */
+#editor-note-view h3.hndle {
+	background: #ff0000!important;
+	color: #fff!important;
+}
