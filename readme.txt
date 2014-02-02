@@ -4,7 +4,7 @@ Donate link: http://joshmallard.com
 Tags: admin, usability, editor, author
 Requires at least: 3.5.1
 Tested up to: 3.8.1
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -12,7 +12,7 @@ Gives administrators the ability to add notes to posts of any post type (includi
 
 == Description ==
 
-Have you ever created a page template that just aggravated posts of a custom post type? Pretty cool huh? 
+Have you ever created a page template that just aggregated posts of a custom post type? Pretty cool huh? 
 
 Well, your client won’t think it’s that cool 2 months from now when they’re editing their site. They click “edit page” *and it’s blank!*.
 
@@ -50,6 +50,12 @@ Now you can add notes and links on these pages that will give your clients clear
 
 
 == Changelog ==
+
+= 1.0.2 =
+* Update readme.txt and add banner & screenshots
+
+= 1.0.1 =
+* Fix botched deployment from Github
 
 = 1.0.0 =
 * Initial Commit
