@@ -3,9 +3,9 @@
 # The difference is that this script lives in the plugin's git repo & doesn't require an existing SVN repo.
  
 # main config
-PLUGINSLUG=“admin-page-notes”
+PLUGINSLUG="admin-page-notes”
 CURRENTDIR=`pwd`
-MAINFILE=“admin-page-notes.php“ # this should be the name of your main php file in the wordpress plugin
+MAINFILE="admin-page-notes.php“ # this should be the name of your main php file in the wordpress plugin
  
 # git config
 GITPATH="$CURRENTDIR/" # this file should be in the base of your git repository
