@@ -11,8 +11,8 @@ MAINFILE="admin-page-notes.php“ # this should be the name of your main php fil
 GITPATH="$CURRENTDIR/" # this file should be in the base of your git repository
  
 # svn config
-SVNPATH="/tmp/admin-page-notes” # path to a temp SVN repo. No trailing slash required and don't add trunk.
-SVNURL="http://plugins.svn.wordpress.org/admin-page-notes/“ # Remote SVN repo on wordpress.org, with no trailing slash
+SVNPATH="/tmp/admin-page-notes" # path to a temp SVN repo. No trailing slash required and don't add trunk.
+SVNURL="http://plugins.svn.wordpress.org/admin-page-notes/" # Remote SVN repo on wordpress.org, with no trailing slash
 SVNUSER="joshlimecuda" # your svn username
  
  
