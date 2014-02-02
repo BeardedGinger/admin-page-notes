@@ -7,7 +7,7 @@ class Page_Notes_Admin {
 	/**
 	 * Set version #
 	 */
-	const VERSION = '1.0.0';
+	const VERSION = '1.0.1';
 
 	/**
 	 * Instance of this class.

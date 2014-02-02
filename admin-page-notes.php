@@ -3,7 +3,7 @@
  * Plugin Name: Admin Page Notes
  * Plugin URI: http://joshmallard.com
  * Description: Gives administrators the ability to add page notes to certain pages that will prominently display special instructions for all users editing those pages. 
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: Josh Mallard
  * Author URI: http://joshmallard.com
  * Text Domain: gb-page-notes
