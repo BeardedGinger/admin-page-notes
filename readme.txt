@@ -4,7 +4,7 @@ Donate link: http://joshmallard.com
 Tags: admin, usability, editor, author
 Requires at least: 3.5.1
 Tested up to: 3.8.1
-Stable tag: 1.0.2
+Stable tag: 1.1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -50,6 +50,11 @@ Now you can add notes and links on these pages that will give your clients clear
 
 
 == Changelog ==
+
+= 1.1.0 =
+* Made the textarea larger 
+* Added translation support. via knutsp
+
 
 = 1.0.2 =
 * Update readme.txt and add banner & screenshots
